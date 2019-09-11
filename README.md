@@ -1,1 +1,1 @@
-# conditions-loops
+# 1.1 IF-tehtävä
